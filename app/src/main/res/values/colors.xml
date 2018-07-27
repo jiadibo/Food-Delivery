@@ -6,4 +6,6 @@
     <color name="colorSecondary">#E9AA33</color>
     <color name="colorBg">#FFD180</color>
     <color name="colorTxt">#E65100</color>
+    <color name="colorBtn">#DD2C00</color>
+    <color name="colorBtnActive">#FFAB00</color>
 </resources>

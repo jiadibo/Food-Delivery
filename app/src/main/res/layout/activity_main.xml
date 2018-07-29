@@ -61,7 +61,7 @@
             app:shadowEnabled="true"
             app:shadowHeight="5dp"
             app:cornerRadius="4dp"
-            app:buttonColor="@color/colorBtnActive"
+            app:FButton="@color/colorBtnActive"
             />
     </LinearLayout>
 

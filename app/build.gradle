@@ -27,10 +27,12 @@ dependencies {
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
     implementation 'com.google.firebase:firebase-core:16.0.1'
 
+    //fixed crash FButton
+    implementation ('com.github.jd-alexander:android-flat-button:v1.1')
+
     //add library
     implementation 'com.google.firebase:firebase-core:10.2.0'
     implementation 'com.google.firebase:firebase-database:10.2.0'
-    implementation 'info.hoang8f:fbutton:1.0.5'
     implementation 'com.rengwuxian.materialedittext:library:2.1.4'
 }
     apply plugin: 'com.google.gms.google-services'

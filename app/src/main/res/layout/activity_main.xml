@@ -46,7 +46,7 @@
             app:shadowEnabled="true"
             app:shadowHeight="5dp"
             app:cornerRadius="4dp"
-            app:buttonColor="@color/colorBtn"
+            app:fButtonColor="@color/colorBtn"
             />
         <info.hoang8f.widget.FButton
 
@@ -61,7 +61,7 @@
             app:shadowEnabled="true"
             app:shadowHeight="5dp"
             app:cornerRadius="4dp"
-            app:FButton="@color/colorBtnActive"
+            app:fButtonColor="@color/colorBtnActive"
             />
     </LinearLayout>
 
